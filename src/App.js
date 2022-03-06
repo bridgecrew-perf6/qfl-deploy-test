@@ -5,7 +5,7 @@ function App() {
   
   return (
     <div className="App">
-      <h1>oi</h1>
+      <h1>teste</h1>
       {/* <div className='flex-plotly'> */}
       <Plotly />
       <Plotly />
